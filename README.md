@@ -1,5 +1,3 @@
-Of course, here is a README for a GitHub repository dedicated to AI-generated deep research papers.
-
 # AI-Generated Research Compendium 🤖
 
 [](https://opensource.org/licenses/MIT)
